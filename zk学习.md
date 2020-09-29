@@ -122,9 +122,6 @@ namespace的设置需要注意，不同的应用不能使用相同的命名空�
     }
 ```
 
-<img src="C:\Users\Voyager\AppData\Roaming\Typora\typora-user-images\image-20200922210206447.png" alt="image-20200922210206447" style="zoom:80%;" />
-
-<img src="C:\Users\Voyager\AppData\Roaming\Typora\typora-user-images\image-20200922210224638.png" alt="image-20200922210224638" style="zoom:80%;" />
 
 ####  Zookeeper Watcher机制
 
